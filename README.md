@@ -1,5 +1,4 @@
-
-run:
+To run on your machine:
 
 ### `yarn start`
 
